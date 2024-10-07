@@ -51,7 +51,7 @@ function App() {
   useEffect(() => {
     const tikzjaxScript = document.createElement('script');
       tikzjaxScript.type = "application/javascript"
-      tikzjaxScript.src = '/tikzjax.js';
+      tikzjaxScript.src = 'tikzjax.js';
       tikzjaxScript.async = true;
       tikzjaxScript.defer = true;
     document.head.appendChild(tikzjaxScript)

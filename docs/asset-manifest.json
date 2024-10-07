@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tikz2pix/static/css/main.1bb1f5cd.css",
-    "main.js": "/tikz2pix/static/js/main.d6d4f8c3.js",
+    "main.js": "/tikz2pix/static/js/main.d872da4b.js",
     "static/js/498.0261ffab.chunk.js": "/tikz2pix/static/js/498.0261ffab.chunk.js",
     "static/js/703.758b7fa7.chunk.js": "/tikz2pix/static/js/703.758b7fa7.chunk.js",
     "static/js/379.ece17728.chunk.js": "/tikz2pix/static/js/379.ece17728.chunk.js",
     "static/js/787.ae58816c.chunk.js": "/tikz2pix/static/js/787.ae58816c.chunk.js",
     "index.html": "/tikz2pix/index.html",
     "main.1bb1f5cd.css.map": "/tikz2pix/static/css/main.1bb1f5cd.css.map",
-    "main.d6d4f8c3.js.map": "/tikz2pix/static/js/main.d6d4f8c3.js.map",
+    "main.d872da4b.js.map": "/tikz2pix/static/js/main.d872da4b.js.map",
     "498.0261ffab.chunk.js.map": "/tikz2pix/static/js/498.0261ffab.chunk.js.map",
     "703.758b7fa7.chunk.js.map": "/tikz2pix/static/js/703.758b7fa7.chunk.js.map",
     "379.ece17728.chunk.js.map": "/tikz2pix/static/js/379.ece17728.chunk.js.map",
@@ -16,6 +16,6 @@
   },
   "entrypoints": [
     "static/css/main.1bb1f5cd.css",
-    "static/js/main.d6d4f8c3.js"
+    "static/js/main.d872da4b.js"
   ]
 }
